@@ -1,0 +1,7 @@
+Varibles
+name = What is your name?
+yearsStudied = How many years have you studied in college?
+dbCheck = Do you have any experiance with databases?
+criminalRec = Do you have a criminal record?
+whyJoin = Why do want to join Oracle?
+howMuch = About how much do you want your salary to be?
