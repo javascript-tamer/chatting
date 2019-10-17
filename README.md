@@ -1,7 +1,7 @@
 # chating
 
 # Description
-This a chatbot available in 4 different languages, Arabic, English, Spanish, and French
+This a chatbot available in 3 different languages, English, Spanish, and French
 This bot has 6 questions
 # License
 MIT License
